@@ -1,0 +1,7 @@
+
+
+### Get all phrases
+GET http://localhost:4000/api/frases
+
+### Get a random phrase
+GET http://localhost:4000/api/frase/random
